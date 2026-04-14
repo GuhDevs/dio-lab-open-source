@@ -4,6 +4,11 @@
     <span> Guia de Contribuição</span>
 </h1>
 
+<h1>
+    ##Sobre mim
+    Meu nome é Gustavo, estou estudando Desenvolvimento de sistemas e essa é minha primeira contribuição open source
+</h1>
+
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
 [![GitHub Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues/)
